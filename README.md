@@ -1,1 +1,1 @@
-# GG_Python_Crash_Course
+# Google_Python_Crash_Course from Coursera
